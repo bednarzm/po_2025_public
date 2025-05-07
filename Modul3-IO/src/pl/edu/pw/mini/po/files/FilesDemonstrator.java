@@ -9,8 +9,8 @@ public class FilesDemonstrator {
 		//demonstrateFileWithNonRelativePath();
 		//demonstratePathDifferences();
 		//demonstrateNamedFile();
-		//demonstrateFileWithGeneralRelativePath();
-		demonstrateFileWithRelativePathToFile();
+		demonstrateFileWithGeneralRelativePath();
+		//demonstrateFileWithRelativePathToFile();
 	}
 
 	private static void demonstratePathDifferences() {

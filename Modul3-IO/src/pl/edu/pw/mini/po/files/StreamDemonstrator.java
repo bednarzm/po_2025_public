@@ -85,11 +85,11 @@ public class StreamDemonstrator {
 		}
 		System.out.println("#################################");
 		try {
-			//InputStream inputStreamFromClassLoaderLocation = FirstClass.class.getClassLoader().getResourceAsStream("myFile1.txt");
-			InputStream inputStreamFromClassLoaderLocation = StreamDemonstrator.class.getResourceAsStream("/files-resources/myFile2.txt");
+			InputStream inputStreamFromClassLoaderLocation = StreamDemonstrator.class.getResourceAsStream("/myFile5.txt");
 			
 			if (inputStreamFromClassLoaderLocation != null) {
-				System.out.println("5. Uda sie bo jestesmy w katalogu należącym do classpath ");
+				System.out.println("5. Uda sie bo jestesmy w katalogu należącym do classpath. "
+						+ "(Pod warunkiem że dodalismy katalog files-resources do classpath).");
 				readBytes(inputStreamFromClassLoaderLocation);
 				inputStreamFromClassLoaderLocation.close();
 			}
@@ -98,8 +98,8 @@ public class StreamDemonstrator {
 		}
 		System.out.println("#################################");
 		try {
-			//InputStream inputStreamFromClassLoaderLocation = FirstClass.class.getClassLoader().getResourceAsStream("myFile1.txt");
-			InputStream inputStreamFromClassLoaderLocation = StreamDemonstrator.class.getResourceAsStream("/external.txt");
+			InputStream inputStreamFromClassLoaderLocation = FirstClass.class.getClassLoader().getResourceAsStream("myFile1.txt");
+			//InputStream inputStreamFromClassLoaderLocation = StreamDemonstrator.class.getResourceAsStream("/external.txt");
 			
 			if (inputStreamFromClassLoaderLocation != null) {
 				System.out.println("6. Uda sie bo jestesmy w katalogu należącym do classpath ");
@@ -191,6 +191,9 @@ public class StreamDemonstrator {
 	private static void demonstrateBufferedInputStreamWithEncodingIssues() {
 		//System.setProperty("file.encoding", "UTF-8");
 		System.out.println(System.getProperty("file.encoding", "UTF-8"));
+		
+		//Dodac katalog 'resource' w którym są te pliki do classpath (Properties->Build path -> Zakladka sources)
+		
 		InputStream inputStream = FirstClass.class.getResourceAsStream("/encoding_issues_UTF-8.txt");
 		//InputStream inputStream = FirstClass.class.getResourceAsStream("/encoding_issues_ISO-8859-2.txt");
 		//InputStream inputStream = FirstClass.class.getResourceAsStream("/encoding_issues_WIndows-1250.txt");
@@ -199,7 +202,7 @@ public class StreamDemonstrator {
 			BufferedInputStream bufferedInputStream = new BufferedInputStream(inputStream);
 			System.out.println(bufferedInputStream.available());
 			byte[] bytes = bufferedInputStream.readAllBytes();
-			String s = new String(bytes, "UTF-8");
+			String s = new String(bytes, "Windows-1250");
 			System.out.println("Read: " + s);
 			bufferedInputStream.close();
 		} catch (IOException e) {
@@ -209,15 +212,35 @@ public class StreamDemonstrator {
 	}
 
 	private static void demonstrateScanner1() {
-		String string = "129-maciek-1.78-aaa";
-		Scanner scanner = new Scanner(string);
-		scanner.useDelimiter("-");
 		
-		while(scanner.hasNextLine()) {
-			//System.out.print(" " + scanner.next());
-			System.out.print(" " + scanner.nextInt() + " " + scanner.next() + " " + scanner.nextDouble() + " " + scanner.next());
+		String string = "129;maciek;1.78;aaa";
+		Scanner scanner = new Scanner(string);
+		scanner.useDelimiter(";");
+		
+		while(scanner.hasNext()) {
+			if(scanner.hasNextInt()) {
+				System.out.println("int: " + scanner.nextInt());
+			} else if (scanner.hasNextDouble()) {
+				System.out.println("double: " + scanner.nextDouble());
+			} else {
+				System.out.println("string: " + scanner.next());
+			}
 		}
 		scanner.close();
+		
+		/*
+		Scanner myObj = new Scanner("The;probability;is;45,6;100;percent");
+		myObj.useDelimiter(";");
+		while (myObj.hasNext()) {
+			if (myObj.hasNextInt()) {
+				System.out.println(" i " + myObj.nextInt());
+			} else if (myObj.hasNextDouble()) {
+				System.out.println(" >>> " + myObj.nextDouble());
+			} else {
+				System.out.println(myObj.next());
+			}
+		}
+		*/
 	}
 
 	private static void serializationDemonstrator() {
