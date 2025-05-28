@@ -1,0 +1,323 @@
+Id:2023-0021###Data:01-11-2023###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2023-0021/###RodzajStatku:SZYBOWIEC###Typ:SZD 48-3 Jantar Std. 3###Klasyfikacja:WYPADEK###ZnakiROzpoznawcze:SP-3263###Miejsce:Białystok / N53°07’43”; E023°07’12”###
+Id:2022/4313###RodzajStatku:SZYBOWIEC###Typ:SZD-48-3 Jantar Std. 3###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2022-4313/###ZnakiROzpoznawcze:OK-6200###Miejsce:Osek - Rokycany###Data:01-02-2022###Klasyfikacja:WYPADEK###
+Typ:PZL Krosno KR3A Puchatek###Miejsce:Piła (EPPI)###Id:2023-0020###Klasyfikacja:POWAŻNY_INCYDENT###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2023-0020/###ZnakiROzpoznawcze:SP-3555###Data:01-07-2023###RodzajStatku:SZYBOWIEC###
+Data:01-04-2023###Miejsce:RAF Kenley / Caterham / Wielka Brytania###Id:2023-0019###Typ:SZD-51-1 Junior###ZnakiROzpoznawcze:G-CKBN###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2023-0019/###RodzajStatku:SZYBOWIEC###Klasyfikacja:WYPADEK###
+Typ:-###Id:2023-0015###RodzajStatku:MOTOPARALOTNIA###LosowyCzynnik:98.69###Miejsce:Knapy / Tarnobrzeg###Klasyfikacja:WYPADEK###Data:01-04-2023###
+RodzajStatku:SZYBOWIEC###Klasyfikacja:WYPADEK###ZnakiROzpoznawcze:G-CFFY###Miejsce:Portmoak Airfield / Szkocja###Id:2023-0017###Data:01-25-2023###Typ:SZD 51-1 Junior###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2023-0017/###
+Miejsce:East Sussex Gliding Club / Kent / Wielka Brytania###RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:G-CLXV###Data:01-07-2023###Klasyfikacja:WYPADEK###Typ:SZD-51-1 Junior###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2023-0014/###Id:2023-0014###
+RodzajStatku:SZYBOWIEC###Data:01-09-2023###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2023-0013/###ZnakiROzpoznawcze:JA2502###Miejsce:Naganohara Town / Gunma Prefecture###Id:2023-0013###Typ:Allstar PZL Glider, SZD-55-1###Klasyfikacja:WYPADEK###
+LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2023-0011/###Klasyfikacja:POWAŻNY_INCYDENT###Miejsce:Teuge (EHTE) / Holandia###ZnakiROzpoznawcze:PH-876###Data:01-17-2022###RodzajStatku:SZYBOWIEC###Typ:PZL-Bielsko SZD-51-1 Junior###Id:2023-0011###
+RodzajStatku:MOTOPARALOTNIA###Data:01-19-2023###Id:2023-0009###LosowyCzynnik:54.1###Typ:-###Klasyfikacja:WYPADEK###Miejsce:Nowa Wieś / Kęty###
+Data:01-15-2022###Miejsce:Radawiec (EPLR)###LosowyCzynnik:21.89###Typ:b.d. (ND)###RodzajStatku:MOTOPARALOTNIA###Id:2022/3025###Klasyfikacja:WYPADEK###
+RodzajStatku:SZYBOWIEC###Typ:PZL Świdnik, PW-6U###Klasyfikacja:POWAŻNY_INCYDENT###Miejsce:North Wales Gliding Club - Wielka Brytania###ZnakiROzpoznawcze:G-CKPX###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2023-0004/###Id:2023-0004###Data:01-26-2023###
+LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2022-7286/###Miejsce:Bielsko-Biała Aleksandrowice (EPBA)###Id:2022/7286###Klasyfikacja:POWAŻNY_INCYDENT###ZnakiROzpoznawcze:SP-3719###Typ:SZD-48-1 Jantar Std. 2###Data:01-28-2022###RodzajStatku:SZYBOWIEC###
+Data:01-02-2022###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2022-5129/###Id:2022/5129###Typ:SZD-51-1 Junior###RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:SP-3472###Klasyfikacja:WYPADEK###Miejsce:Białystok-Krywlany (EPBK)###
+LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2022-4706/###Klasyfikacja:POWAŻNY_INCYDENT###Miejsce:Pruszcz Gdański (EPPR)###RodzajStatku:SZYBOWIEC###Id:2022/4706###Typ:SZD-9 Bocian###Data:01-19-2022###ZnakiROzpoznawcze:SP-3099###
+RodzajStatku:SPADOCHRON###Id:2020/2872###Klasyfikacja:WYPADEK###Data:01-11-2020###Miejsce:Elbląg (EPEL)###Typ:UPT, Sigma 340###
+LosowyCzynnik:98.88###Typ:Dudek Uniwersal 3.1 / Polini 2.50###RodzajStatku:MOTOPARALOTNIA###Id:2022/5876###Data:01-05-2022###Klasyfikacja:WYPADEK###Miejsce:Legnica (EPLE)###
+ZnakiROzpoznawcze:SP-3403###Miejsce:Jelenia Góra (EPJG)###Typ:SZD-50-3 Puchacz###RodzajStatku:SZYBOWIEC###Data:01-20-2020###Klasyfikacja:INCYDENT###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-2466/###Id:2020/2466###
+Data:01-10-2021###RodzajStatku:SPADOCHRON###Typ:Sabre 170###Miejsce:Lotnisko Gliwice EPGL###Klasyfikacja:WYPADEK###Id:2021/3572###
+Miejsce:Pruszcz Gdański (EPPR)###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2022-5425/###Id:2022/5425###Klasyfikacja:WYPADEK###Data:01-14-2022###RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:SP-3407###Typ:SZD-50-3 Puchacz###
+Klasyfikacja:WYPADEK###Data:01-23-2022###RodzajStatku:SPADOCHRON###Typ:PD, Lightning 193 PS###Miejsce:EPPT (Longinówka)###Id:2022/5555###
+Id:2019/1401###Data:01-01-2019###Miejsce:Chrcynno (EPNC)###RodzajStatku:SPADOCHRON###Typ:PD, Navigator 240###Klasyfikacja:WYPADEK###
+Miejsce:Świebodzice Ciernie EPWC###RodzajStatku:SZYBOWIEC###Id:2020/1403###Typ:GROB 103 Twin Astir###Data:01-13-2020###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-1403/###ZnakiROzpoznawcze:SP-4033###Klasyfikacja:WYPADEK###
+LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2022-6070/###Data:01-14-2022###Klasyfikacja:POWAŻNY_INCYDENT###Miejsce:Rudniki (EPRU)###Id:2022/6070###RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:SP-3288###Typ:SZD-50-3 Puchacz###
+Typ:SKYLARK, Commodore 230###Id:2019/1425###Klasyfikacja:WYPADEK###RodzajStatku:SPADOCHRON###Data:01-01-2019###Miejsce:Gliwice (EPGL)###
+Typ:Commodore###Klasyfikacja:WYPADEK###RodzajStatku:SPADOCHRON###Miejsce:Gliwice (EPGL)###Id:2020/1419###Data:01-13-2020###
+Typ:Zakłady Lotnicze Margański MDM-1 ###ZnakiROzpoznawcze:SP-3828###Data:01-23-2022###RodzajStatku:SZYBOWIEC###Klasyfikacja:WYPADEK###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2022-6240/###Id:2022/6240###Miejsce:Kościelec / Rudniki (EPRU)###
+Id:2019/1474###Typ:MARS A.S., Mars 330###Klasyfikacja:WYPADEK###RodzajStatku:SPADOCHRON###Miejsce:EPIN###Data:01-05-2019###
+Miejsce:Lotnisko, Zamość (EPZA)###ZnakiROzpoznawcze:SP-2965###Klasyfikacja:WYPADEK###Data:01-08-2019###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-1514/###Typ:SZD-36A Cobra 15###Id:2019/1514###RodzajStatku:SZYBOWIEC###
+RodzajStatku:SPADOCHRON###Data:01-14-2020###Miejsce:Pruszcz Gdański (EPPR)###Id:2020/1443###Typ:Stiletto 120###Klasyfikacja:WYPADEK###
+Miejsce:Krosno (EPKR)###Typ:b.d. (ND)###Data:01-11-2019###Klasyfikacja:WYPADEK###RodzajStatku:SPADOCHRON###Id:2019/1625###
+Data:01-23-2020###ZnakiROzpoznawcze:SP-2686###Typ:SZD - 41 Jantar Std###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-1484/###RodzajStatku:SZYBOWIEC###Id:2020/1484###Klasyfikacja:WYPADEK###Miejsce:Tarnówek###
+Miejsce:Kielce-Masłów (EPKA)###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-1492/###ZnakiROzpoznawcze:SP-2790###Id:2020/1492###RodzajStatku:SZYBOWIEC###Typ:SZD-38A Jantar 1###Data:01-23-2020###Klasyfikacja:WYPADEK###
+Data:01-18-2019###Miejsce:Piotrków Trybunalski (EPPT)###RodzajStatku:SPADOCHRON###Klasyfikacja:WYPADEK###Typ:SKYLARK, Skiper 170###Id:2019/1653###
+Id:2020/1504###Typ:Falcon 300###Miejsce:Pruszcz Gdański (EPPR)###Data:01-21-2020###RodzajStatku:SPADOCHRON###Klasyfikacja:WYPADEK###
+Klasyfikacja:INCYDENT###Typ:Mamba 111###Miejsce:Chrcynno (EPNC)###Data:01-19-2019###RodzajStatku:SPADOCHRON###Id:2019/1658###
+Klasyfikacja:WYPADEK###Id:2020/1525###Data:01-28-2020###Typ:Commodore###Miejsce:Gliwice (EPGL)###RodzajStatku:SPADOCHRON###
+Miejsce:Mielec (EPML)###RodzajStatku:SPADOCHRON###Data:01-25-2019###Id:2019/1810###Typ:b.d. (ND)###Klasyfikacja:WYPADEK###
+Klasyfikacja:POWAŻNY_INCYDENT###ZnakiROzpoznawcze:SP-4090###Miejsce:EPPI###Data:01-30-2020###Typ:SZD-51 Junior###Id:2020/1563###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-1563/###RodzajStatku:SZYBOWIEC###
+Id:2019/1912###Typ:b.d. (ND)###Miejsce:Mielec (EPML)###RodzajStatku:SPADOCHRON###Klasyfikacja:WYPADEK###Data:01-02-2019###
+Typ:SABRE 150###RodzajStatku:SPADOCHRON###Klasyfikacja:WYPADEK###Miejsce:Leszno (EPLS)###Id:2018/0706###Data:01-08-2018###
+Id:2020/1504###Typ:Falcon 300###Miejsce:Pruszcz Gdański (EPPR)###Data:01-21-2020###RodzajStatku:SPADOCHRON###Klasyfikacja:WYPADEK###
+Klasyfikacja:INCYDENT###Typ:Mamba 111###Miejsce:Chrcynno (EPNC)###Data:01-19-2019###RodzajStatku:SPADOCHRON###Id:2019/1658###
+Klasyfikacja:WYPADEK###Id:2020/1525###Data:01-28-2020###Typ:Commodore###Miejsce:Gliwice (EPGL)###RodzajStatku:SPADOCHRON###
+Miejsce:Mielec (EPML)###RodzajStatku:SPADOCHRON###Data:01-25-2019###Id:2019/1810###Typ:b.d. (ND)###Klasyfikacja:WYPADEK###
+Klasyfikacja:POWAŻNY_INCYDENT###ZnakiROzpoznawcze:SP-4090###Miejsce:EPPI###Data:01-30-2020###Typ:SZD-51 Junior###Id:2020/1563###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-1563/###RodzajStatku:SZYBOWIEC###
+Id:2019/1912###Typ:b.d. (ND)###Miejsce:Mielec (EPML)###RodzajStatku:SPADOCHRON###Klasyfikacja:WYPADEK###Data:01-02-2019###
+Typ:SABRE 150###RodzajStatku:SPADOCHRON###Klasyfikacja:WYPADEK###Miejsce:Leszno (EPLS)###Id:2018/0706###Data:01-08-2018###
+Id:2020/1504###Typ:Falcon 300###Miejsce:Pruszcz Gdański (EPPR)###Data:01-21-2020###RodzajStatku:SPADOCHRON###Klasyfikacja:WYPADEK###
+Klasyfikacja:INCYDENT###Typ:Mamba 111###Miejsce:Chrcynno (EPNC)###Data:01-19-2019###RodzajStatku:SPADOCHRON###Id:2019/1658###
+Klasyfikacja:WYPADEK###Id:2020/1525###Data:01-28-2020###Typ:Commodore###Miejsce:Gliwice (EPGL)###RodzajStatku:SPADOCHRON###
+Miejsce:Mielec (EPML)###RodzajStatku:SPADOCHRON###Data:01-25-2019###Id:2019/1810###Typ:b.d. (ND)###Klasyfikacja:WYPADEK###
+Klasyfikacja:POWAŻNY_INCYDENT###ZnakiROzpoznawcze:SP-4090###Miejsce:EPPI###Data:01-30-2020###Typ:SZD-51 Junior###Id:2020/1563###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-1563/###RodzajStatku:SZYBOWIEC###
+Id:2019/1912###Typ:b.d. (ND)###Miejsce:Mielec (EPML)###RodzajStatku:SPADOCHRON###Klasyfikacja:WYPADEK###Data:01-02-2019###
+Typ:SABRE 150###RodzajStatku:SPADOCHRON###Klasyfikacja:WYPADEK###Miejsce:Leszno (EPLS)###Id:2018/0706###Data:01-08-2018###
+ZnakiROzpoznawcze:SP-3796###Miejsce:EPBP###Klasyfikacja:INCYDENT###Typ:SZD-54-2 Perkoz###RodzajStatku:SZYBOWIEC###Id:2018/0839###Data:01-15-2018###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-0839/###
+Miejsce:EPOP###Typ:PISA Skymaster 290###Data:01-22-2018###Id:2018/0879###RodzajStatku:SPADOCHRON###Klasyfikacja:WYPADEK###
+Typ:SZD-36 Cobra###Klasyfikacja:WYPADEK###ZnakiROzpoznawcze:D-5469###Miejsce:EDBY/Schmoldow###Data:01-02-2019###Id:2019/1971###RodzajStatku:SZYBOWIEC###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-1971/###
+RodzajStatku:SZYBOWIEC###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-0884/###Klasyfikacja:WYPADEK###ZnakiROzpoznawcze:LY-GOT / SP-3893###Miejsce:Litwa###Id:2018/0884###Data:01-14-2018###Typ:LS-8 / LS-8###
+Data:01-03-2019###Klasyfikacja:WYPADEK###ZnakiROzpoznawcze:SP-3262###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-1982/###Typ:SZD-48 Jantar Std. 3###RodzajStatku:SZYBOWIEC###Id:2019/1982###Miejsce:okolice m. Bojanowo###
+Data:01-05-2020###Id:2020/1665###Klasyfikacja:INCYDENT###ZnakiROzpoznawcze:###RodzajStatku:SZYBOWIEC###Miejsce:Krosno (EPKR)###Typ:Puchatek KR 03A###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-1665/###
+Id:2020/1691###Klasyfikacja:WYPADEK###RodzajStatku:SPADOCHRON###Data:01-07-2020###Miejsce:Szymanów (EPWS)###Typ:Safire 2-189###
+RodzajStatku:SZYBOWIEC###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-1693/###Typ:SZD-50-3 "Puchacz"###Id:2020/1693###Miejsce:Lądowisko Laszki (EPJL)###Klasyfikacja:POWAŻNY_INCYDENT###Data:01-09-2020###ZnakiROzpoznawcze:SP-3322###
+Klasyfikacja:INCYDENT###RodzajStatku:SPADOCHRON###Typ:Voyager280###Miejsce:Radawiec (EPLR)###Id:2018/0900###Data:01-06-2018###
+Typ:SZD-48-1 Jantar Std. 2###Data:01-08-2019###RodzajStatku:SZYBOWIEC###Id:2019/2071###Miejsce:Wola Batorska / Niepołomice###ZnakiROzpoznawcze:SP-3258###Klasyfikacja:WYPADEK###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-2071/###
+RodzajStatku:SZYBOWIEC###Miejsce:EKVH###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-1700/###Typ:SZD-59 Acro###Data:01-09-2020###ZnakiROzpoznawcze:OY-RUX###Id:2020/1700###Klasyfikacja:WYPADEK###
+Id:2018/0907###Klasyfikacja:WYPADEK###Typ:PRIME 260###Miejsce:EPKB###Data:01-22-2018###RodzajStatku:SPADOCHRON###
+RodzajStatku:SPADOCHRON###Data:01-11-2020###Klasyfikacja:WYPADEK###Typ:Mars330Z###Miejsce:Świebodzice (EPWC)###Id:2020/1729###
+Typ:skrzydło Uniwersal 23 (wing)###RodzajStatku:MOTOPARALOTNIA###Id:2020/1754###Klasyfikacja:WYPADEK###Miejsce:Lądowisko, Chojna###LosowyCzynnik:84.3###Data:01-13-2020###
+Klasyfikacja:WYPADEK###RodzajStatku:SPADOCHRON###Miejsce:Pruszcz Gdański (EPPR)###Data:01-26-2020###Typ:Pilot 188###Id:2020/1757###
+Klasyfikacja:WYPADEK###Miejsce:Piotrków Trybunalski###Typ:Icarus Safire 169###Id:2018/1026###RodzajStatku:SPADOCHRON###Data:01-03-2018###
+Typ:Bocian###Miejsce:Weremień###Data:01-01-2018###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-1050/###Klasyfikacja:INCYDENT###RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:SP-3043###Id:2018/1050###
+Id:2019/2189###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-2189/###Data:01-15-2019###Miejsce:Szczury / Ostrów Wielkopolski###RodzajStatku:SZYBOWIEC###Klasyfikacja:WYPADEK###Typ:SZD-48-1 Jantar Std. 2###ZnakiROzpoznawcze:SP-3887###
+Id:2020/1843###RodzajStatku:SZYBOWIEC###Typ:SZD-9 bis 1E "Bocian"###Klasyfikacja:INCYDENT###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-1843/###ZnakiROzpoznawcze:SP-3799###Miejsce:EPGL###Data:01-13-2020###
+Data:01-05-2018###Typ:SABRE 190 ###Miejsce:Gliwice (EPGL)###Id:2018/1058###RodzajStatku:SPADOCHRON###Klasyfikacja:INCYDENT###
+RodzajStatku:SPADOCHRON###Id:2019/2213###Miejsce:EPKB###Typ:Icarus Safire 2-109###Klasyfikacja:WYPADEK###Data:01-14-2019###
+Miejsce:EPBK###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-1857/###Id:2020/1857###Typ:SZD 48-3 Jantar Standard 3###Data:01-17-2020###RodzajStatku:SZYBOWIEC###Klasyfikacja:INCYDENT###ZnakiROzpoznawcze:SP-3263###
+Typ:GLIDER ###Data:01-05-2018###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-1069/###RodzajStatku:SZYBOWIEC###Id:2018/1069###Klasyfikacja:INCYDENT###Miejsce:Gliwice (EPGL)###ZnakiROzpoznawcze:SP-3430###
+Typ:SZD-9 Bocian###RodzajStatku:SZYBOWIEC###Klasyfikacja:WYPADEK###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-1070/###ZnakiROzpoznawcze:SP-2589###Data:01-30-2018###Id:2018/1070###Miejsce:Żernica Wyżna###
+RodzajStatku:SPADOCHRON###Data:01-18-2020###Typ:Nawigator 280###Miejsce:Piotrków Trybunalski (EPPT)###Klasyfikacja:WYPADEK###Id:2020/1873###
+Id:2020/1874###Klasyfikacja:WYPADEK###Miejsce:Piotrków Trybunalski (EPPT)###Typ:Pilot 190###Data:01-19-2020###RodzajStatku:SPADOCHRON###
+RodzajStatku:SZYBOWIEC###Id:2019/2303###Typ:SZD 51-1 Junior###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-2303/###Klasyfikacja:POWAŻNY_INCYDENT###ZnakiROzpoznawcze:SP-3303###Miejsce:Warszawa Babice (EPBC)###Data:01-17-2019###
+LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-1910/###RodzajStatku:SZYBOWIEC###Data:01-20-2020###Miejsce:Bukownica###Id:2020/1910###Klasyfikacja:WYPADEK###ZnakiROzpoznawcze:SP-3757###Typ:SZD-48-3 Jantar Std 3###
+LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-1134/###Klasyfikacja:INCYDENT###ZnakiROzpoznawcze:SP-3296###Typ:SZD-48 Jantar Std. 3###Data:01-13-2018###Miejsce:Elbląg (EPEL)###Id:2018/1134###RodzajStatku:SZYBOWIEC###
+Klasyfikacja:WYPADEK###Data:01-13-2018###RodzajStatku:SPADOCHRON###Typ:SIGMA 370###Id:2018/1150###Miejsce:EPZP###
+Typ:Aerodyne Research, Pilot 150###Miejsce:Piotrków Trybunalski (EPPT)###Klasyfikacja:WYPADEK###Data:01-22-2019###Id:2019/2356###RodzajStatku:SPADOCHRON###
+Klasyfikacja:WYPADEK###Typ:Navigator 260###Data:01-12-2018###Miejsce:Łososina Dolna (EPNL)###Id:2018/1151###RodzajStatku:SPADOCHRON###
+Miejsce:Strzyżew###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-1950/###Data:01-22-2020###Klasyfikacja:INCYDENT###Id:2020/1950###ZnakiROzpoznawcze:SP-3460###RodzajStatku:SZYBOWIEC###Typ:SZD-51-1 "Junior"###
+Miejsce:Olsztyn Dajtki (EPOD)###Data:01-12-2018###Klasyfikacja:INCYDENT###Id:2018/1157###Typ:PD Navigator 260###RodzajStatku:SPADOCHRON###
+RodzajStatku:SPADOCHRON###Miejsce:Inowrocław(EPIN)###Id:2019/2383###Klasyfikacja:WYPADEK###Typ:MARS A.S., Mars 330###Data:01-23-2019###
+Id:2020/1995###Klasyfikacja:WYPADEK###Data:01-23-2020###Miejsce:Olsztyn (Teren przygodny)###RodzajStatku:SPADOCHRON###Typ:JVX2 89###
+Miejsce:Szczecin Dąbie###Klasyfikacja:WYPADEK###RodzajStatku:SPADOCHRON###Id:2018/1187###Data:01-16-2018###Typ:MARS 330###
+LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-2024/###Typ:SZD-51-1 "Junior"###Id:2020/2024###Klasyfikacja:WYPADEK###ZnakiROzpoznawcze:SP-3413###Miejsce:EPLS###Data:01-26-2020###RodzajStatku:SZYBOWIEC###
+Klasyfikacja:INCYDENT###Miejsce:Wrocław-Szymanów (EPWS)###Typ:SZD-50-3 Puchacz###RodzajStatku:SZYBOWIEC###Id:2018/1200###Data:01-15-2018###ZnakiROzpoznawcze:SP-3324###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-1200/###
+Data:01-16-2018###Id:2018/1209###ZnakiROzpoznawcze:SP-2997###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-1209/###RodzajStatku:SZYBOWIEC###Miejsce:Wrocław (EPWS)###Typ:SZD 9 bis Bocian 1E###Klasyfikacja:INCYDENT###
+Data:01-30-2019###Miejsce:Pruszcz Gdański (EPPR)###Typ:PD, Navigator 240###Klasyfikacja:WYPADEK###Id:2019/2529###RodzajStatku:SPADOCHRON###
+Typ:KR-03A Puchatek###Klasyfikacja:WYPADEK###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-2027/###Id:2020/2027###Data:01-26-2020###ZnakiROzpoznawcze:SP-3497###Miejsce:Świebodzice (EPWC)###RodzajStatku:SZYBOWIEC###
+Miejsce:Chrcynno (EPNC)###Data:01-06-2019###Klasyfikacja:POWAŻNY_INCYDENT###Typ:PD, Navigator 260###RodzajStatku:SPADOCHRON###Id:2019/2646###
+RodzajStatku:SPADOCHRON###Miejsce:Bielsko-Biała Aleksandrowice (EPBA)###Typ:MARS 330 ###Klasyfikacja:WYPADEK###Data:01-25-2020###Id:2020/2043###
+Typ:Commodore 250###Klasyfikacja:INCYDENT###Data:01-19-2018###Id:2018/1229###RodzajStatku:SPADOCHRON###Miejsce:Gliwice (EPGL)###
+RodzajStatku:SZYBOWIEC###Miejsce:Krosno (EPKR)###Typ:SZD-30 Pirat###Klasyfikacja:WYPADEK###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-2771/###Data:01-13-2019###Id:2019/2771###ZnakiROzpoznawcze:SP-2573###
+RodzajStatku:SPADOCHRON###Typ:PD, Student 300###Klasyfikacja:WYPADEK###Data:01-14-2019###Miejsce:Radawiec (EPLR)###Id:2019/2828###
+Klasyfikacja:WYPADEK###RodzajStatku:SPADOCHRON###Data:01-20-2018###Miejsce:Nowy Glinnik EPTM###Id:2018/1237###Typ:Pilot 132###
+LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-2116/###ZnakiROzpoznawcze:SP-3427###Id:2020/2116###Miejsce:Warszawa Babice (EPBC)###Typ:SZD 51-1 / Socata MS893E Rallye###Klasyfikacja:INCYDENT###RodzajStatku:SZYBOWIEC###Data:01-31-2020###
+Typ:SZD-48 Jantar Std. 2###RodzajStatku:SZYBOWIEC###Miejsce:Nawojowa / Nowy Sącz###Klasyfikacja:INCYDENT###Data:01-02-2018###Id:2018/1290###ZnakiROzpoznawcze:SP-3212###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-1290/###
+Id:2019/2901###RodzajStatku:SZYBOWIEC###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-2901/###Data:01-18-2019###Miejsce:Lotnisko Strzyżewice k /Leszna (EPLS)###Klasyfikacja:WYPADEK###ZnakiROzpoznawcze:SP-3383###Typ:SZD-48 Jantar Std. 3###
+RodzajStatku:SZYBOWIEC###Klasyfikacja:WYPADEK###ZnakiROzpoznawcze:SP-3652###Typ:SZD-30 Pirat###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-2918/###Miejsce:Palikije###Data:01-18-2019###Id:2019/2918###
+RodzajStatku:SPADOCHRON###Data:01-27-2018###Miejsce:EPLS###Typ:Sky Lark###Klasyfikacja:INCYDENT###Id:2018/1333###
+Id:2020/2128###Typ:SZD-9 bis 1E ###RodzajStatku:SZYBOWIEC###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-2128/###ZnakiROzpoznawcze:SP-3037###Miejsce:Lądowisko Świebodzice (EPWC)###Klasyfikacja:INCYDENT###Data:01-30-2020###
+Id:2019/2935###Klasyfikacja:WYPADEK###Miejsce:Chrcynno (EPNC)###Data:01-20-2019###Typ:PD, Navigator 220###RodzajStatku:SPADOCHRON###
+Klasyfikacja:INCYDENT###Id:2020/2134###Typ:SZD 51-1 Junior###Miejsce:Laskowice###RodzajStatku:SZYBOWIEC###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-2134/###ZnakiROzpoznawcze:SP-4072###Data:01-01-2020###
+RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:SP-3352###Typ:SZD-50-3 Puchacz###Klasyfikacja:WYPADEK###Miejsce:Piotrków Trybunalski (EPPT)###Data:01-23-2019###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-3071/###Id:2019/3071###
+ZnakiROzpoznawcze:D-3130###Typ:ROLLADEN-SCHNEIDER, LS-1###Id:2018/1380###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-1380/###RodzajStatku:SZYBOWIEC###Data:01-29-2018###Miejsce:Nowa Wieś Książęca-Parcele###Klasyfikacja:INCYDENT###
+RodzajStatku:SPADOCHRON###Typ:Classic 282###Id:2019/3112###Klasyfikacja:WYPADEK###Data:01-25-2019###Miejsce:Inowrocław(EPIN)###
+Miejsce:Laszki (EPJL)###Klasyfikacja:WYPADEK###Id:2020/2214###Data:01-06-2020###ZnakiROzpoznawcze:SP-3035###Typ:SZD-9 bis 1E Bocian###RodzajStatku:SZYBOWIEC###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-2214/###
+LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-1424/###Data:01-01-2018###RodzajStatku:SZYBOWIEC###Typ:SZD-41 Jantar Sdt.###Klasyfikacja:WYPADEK###Miejsce:EPOM###Id:2018/1424###ZnakiROzpoznawcze:SP-3260###
+RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:SP-3738###Data:01-03-2019###Id:2019/3255###Klasyfikacja:WYPADEK###Miejsce:Mokre / Zamość (EPZA)###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-3255/###Typ:b.d. (ND)###
+Typ:PD, Navigator 280###Klasyfikacja:WYPADEK###RodzajStatku:SPADOCHRON###Id:2019/3307###Data:01-03-2019###Miejsce:Białystok (EPBK) ###
+Miejsce:Lotnisko Kruszyn (EPWK)###Data:01-08-2020###Id:2020/2264###Klasyfikacja:WYPADEK###RodzajStatku:SZYBOWIEC###Typ:SZD-9 Bocian###ZnakiROzpoznawcze:SP-2824###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-2264/###
+RodzajStatku:SZYBOWIEC###Data:01-08-2020###Miejsce:Lotnisko Kąkolewo (EPPG)###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-2265/###Typ:PW-6U###Klasyfikacja:INCYDENT###Id:2020/2265###ZnakiROzpoznawcze:SP-3881###
+Klasyfikacja:WYPADEK###ZnakiROzpoznawcze:SP-3509###Miejsce:Lotnisko Lubin (EPLU)###Data:01-10-2018###Id:2018/1510###Typ:SZD 51-1 Junior###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-1510/###RodzajStatku:SZYBOWIEC###
+Typ:Sigma 370###Id:2019/3330###Miejsce:Szymanów (EPWS)###Data:01-02-2019###RodzajStatku:SPADOCHRON###Klasyfikacja:WYPADEK###
+Typ:ASG 29###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-3350/###Klasyfikacja:INCYDENT###Data:01-04-2019###RodzajStatku:SZYBOWIEC###Miejsce:Lotnisko Polska Nowa Wieś k / Opola (EPOP)###Id:2019/3350###ZnakiROzpoznawcze:SP-3818###
+ZnakiROzpoznawcze:SP-3988###Miejsce:Łódź Lublinek (EPLL)###Id:2019/3358###Typ:b.d. (ND)###RodzajStatku:SZYBOWIEC###Data:01-06-2019###Klasyfikacja:INCYDENT###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-3358/###
+Typ:Pilot 150###Miejsce:Piotrków Trybunalski (EPPT)###Data:01-16-2018###RodzajStatku:SPADOCHRON###Id:2018/1630###Klasyfikacja:INCYDENT###
+Klasyfikacja:WYPADEK###Miejsce:Galiny / Bartoszyce###Id:2019/3400###Typ:SHWAT 28###Data:01-07-2019###RodzajStatku:MOTOPARALOTNIA###LosowyCzynnik:62.42###
+Id:2018/1632###RodzajStatku:SPADOCHRON###Typ:Crossfire 139###Data:01-17-2018###Miejsce:Piotrków Trybunalski (EPPT)###Klasyfikacja:INCYDENT###
+Klasyfikacja:INCYDENT###RodzajStatku:SPADOCHRON###Miejsce:Chrcynno (EPNC)###Id:2018/1634###Data:01-16-2018###Typ:Skipper 190###
+Typ:PD, Navigator 240###Data:01-10-2019###Klasyfikacja:WYPADEK###RodzajStatku:SPADOCHRON###Id:2019/3438###Miejsce:Chrcynno (EPNC)###
+RodzajStatku:SPADOCHRON###Data:01-16-2018###Miejsce:Radawiec (EPLR)###Klasyfikacja:WYPADEK###Typ:Voyager 260###Id:2018/1687###
+Miejsce:Gliwice (EPGL)###Klasyfikacja:WYPADEK###Id:2019/3446###Data:01-09-2019###Typ:b.d. (ND)###RodzajStatku:SPADOCHRON###
+Miejsce:Gliwice (EPGL)###Data:01-16-2018###Klasyfikacja:WYPADEK###Typ:Commodore 250###RodzajStatku:SPADOCHRON###Id:2018/1719###
+Klasyfikacja:WYPADEK###Miejsce:Galiny / Bartoszyce###Id:2019/3400###Typ:SHWAT 28###Data:01-07-2019###RodzajStatku:MOTOPARALOTNIA###LosowyCzynnik:62.42###
+Id:2018/1632###RodzajStatku:SPADOCHRON###Typ:Crossfire 139###Data:01-17-2018###Miejsce:Piotrków Trybunalski (EPPT)###Klasyfikacja:INCYDENT###
+Klasyfikacja:INCYDENT###RodzajStatku:SPADOCHRON###Miejsce:Chrcynno (EPNC)###Id:2018/1634###Data:01-16-2018###Typ:Skipper 190###
+Typ:PD, Navigator 240###Data:01-10-2019###Klasyfikacja:WYPADEK###RodzajStatku:SPADOCHRON###Id:2019/3438###Miejsce:Chrcynno (EPNC)###
+RodzajStatku:SPADOCHRON###Data:01-16-2018###Miejsce:Radawiec (EPLR)###Klasyfikacja:WYPADEK###Typ:Voyager 260###Id:2018/1687###
+Miejsce:Gliwice (EPGL)###Klasyfikacja:WYPADEK###Id:2019/3446###Data:01-09-2019###Typ:b.d. (ND)###RodzajStatku:SPADOCHRON###
+Miejsce:Gliwice (EPGL)###Data:01-16-2018###Klasyfikacja:WYPADEK###Typ:Commodore 250###RodzajStatku:SPADOCHRON###Id:2018/1719###
+Klasyfikacja:WYPADEK###Miejsce:Galiny / Bartoszyce###Id:2019/3400###Typ:SHWAT 28###Data:01-07-2019###RodzajStatku:MOTOPARALOTNIA###LosowyCzynnik:62.42###
+Id:2018/1632###RodzajStatku:SPADOCHRON###Typ:Crossfire 139###Data:01-17-2018###Miejsce:Piotrków Trybunalski (EPPT)###Klasyfikacja:INCYDENT###
+Klasyfikacja:INCYDENT###RodzajStatku:SPADOCHRON###Miejsce:Chrcynno (EPNC)###Id:2018/1634###Data:01-16-2018###Typ:Skipper 190###
+Typ:PD, Navigator 240###Data:01-10-2019###Klasyfikacja:WYPADEK###RodzajStatku:SPADOCHRON###Id:2019/3438###Miejsce:Chrcynno (EPNC)###
+RodzajStatku:SPADOCHRON###Data:01-16-2018###Miejsce:Radawiec (EPLR)###Klasyfikacja:WYPADEK###Typ:Voyager 260###Id:2018/1687###
+Miejsce:Gliwice (EPGL)###Klasyfikacja:WYPADEK###Id:2019/3446###Data:01-09-2019###Typ:b.d. (ND)###RodzajStatku:SPADOCHRON###
+Miejsce:Gliwice (EPGL)###Data:01-16-2018###Klasyfikacja:WYPADEK###Typ:Commodore 250###RodzajStatku:SPADOCHRON###Id:2018/1719###
+RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:D-KBBN###Typ:Ventus 2CXM###Miejsce:Leszno EPLS ###Data:01-21-2018###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-1733/###Klasyfikacja:WYPADEK###Id:2018/1733###
+Klasyfikacja:WYPADEK###Miejsce:Chrcynno (EPNC)###Data:01-16-2018###Id:2018/1742###RodzajStatku:SPADOCHRON###Typ:Crossfire2 99 ###
+RodzajStatku:SPADOCHRON###Data:01-01-2018###Klasyfikacja:WYPADEK###Id:2018/1781###Typ:Safire 2 - 119###Miejsce:Michałków (EPOM) ###
+Data:01-15-2019###Klasyfikacja:WYPADEK###Id:2019/3573###Typ:b.d. (ND)###Miejsce:Chrcynno (EPNC)###RodzajStatku:SPADOCHRON###
+Typ:PZL Bielsko-SZD-41-A###RodzajStatku:SZYBOWIEC###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-3579/###Klasyfikacja:WYPADEK###Miejsce:Lotnisko Kruszyn (EPWK)###ZnakiROzpoznawcze:SP-3411###Data:01-18-2019###Id:2019/3579###
+ZnakiROzpoznawcze:SP-3233###Data:01-21-2020###Typ:SZD-50-3 "Puchacz"###RodzajStatku:SZYBOWIEC###Id:2020/2508###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-2508/###Miejsce:Lotnisko Turbia (EPST)###Klasyfikacja:INCYDENT###
+Data:01-30-2018###Miejsce:Lotnisko Włocławek (EPWK)###Id:2018/1844###Typ:Sabre 2 150###RodzajStatku:SPADOCHRON###Klasyfikacja:WYPADEK###
+Miejsce:Chrcynno (EPNC)###RodzajStatku:SPADOCHRON###Typ:Aerodyne Research, Pilot 140###Klasyfikacja:WYPADEK###Id:2019/3582###Data:01-15-2019###
+RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:SP-2810###Klasyfikacja:WYPADEK###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-1918/###Data:01-03-2018###Id:2018/1918###Typ:SZD-9bis 1E Bocian###Miejsce:Łupiny / Słupsk###
+Miejsce:Bydgoszcz Szwederowo (EPBY) ###Klasyfikacja:INCYDENT###Id:2019/3586###Typ:SZD-9 Bocian###Data:01-14-2019###RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:SP-2754###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-3586/###
+Id:2020/2526###Data:01-21-2020###RodzajStatku:SPADOCHRON###Miejsce:Chrcynno (EPNC)###Klasyfikacja:WYPADEK###Typ:Silhouette 170###
+Id:2018/1953###Miejsce:Chrcynno (EPNC)###Typ:Nawigator###Data:01-07-2018###Klasyfikacja:WYPADEK###RodzajStatku:SPADOCHRON###
+RodzajStatku:SPADOCHRON###Miejsce:Kraków Pobiednik (EPKP)###Data:01-17-2019###Typ:Malibu 260###Klasyfikacja:WYPADEK###Id:2019/3614###
+Miejsce:Białystok (EPBK) ###RodzajStatku:SPADOCHRON###Typ:Navigator 280###Data:01-07-2018###Klasyfikacja:WYPADEK###Id:2018/1954###
+Klasyfikacja:INCYDENT###RodzajStatku:SPADOCHRON###Id:2020/2543###Data:01-22-2020###Typ:b.d. (ND)###Miejsce:Nowy Targ (EPNT)###
+Typ:SZD-51-1 Junior###RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:SP-3379###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-1962/###Id:2018/1962###Klasyfikacja:INCYDENT###Miejsce:Zamość (EPZA)###Data:01-07-2018###
+Id:2019/3646###Data:01-18-2019###Typ:Aerodyne Research, Pilot 96###Miejsce:Kazimierz Biskupi (EPKB)###RodzajStatku:SPADOCHRON###Klasyfikacja:WYPADEK###
+Id:2019/3687###Data:01-18-2019###Typ:Voyager 260###RodzajStatku:SPADOCHRON###Miejsce:Radawiec (EPLR)###Klasyfikacja:WYPADEK###
+RodzajStatku:SPADOCHRON###Typ:Nawigator 260###Data:01-14-2018###Klasyfikacja:WYPADEK###Miejsce:Kruszyn (EPWK) ###Id:2018/2070###
+LosowyCzynnik:44.33###Klasyfikacja:WYPADEK###Typ:b.d. (ND)###Data:01-03-2020###Id:2020/2733###RodzajStatku:MOTOPARALOTNIA###Miejsce:Rudniki###
+Data:01-05-2020###Typ:b.d. (ND)###Miejsce:EPLR###Klasyfikacja:WYPADEK###RodzajStatku:SPADOCHRON###Id:2020/2814###
+Miejsce:Piotrków Trybunalski (EPPT)###Klasyfikacja:POWAŻNY_INCYDENT###ZnakiROzpoznawcze:SP-3841###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-2854/###Id:2020/2854###Data:01-11-2020###Typ:Grob G102 Astir CS###RodzajStatku:SZYBOWIEC###
+Id:2011/0766###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2011-0766/###Klasyfikacja:WYPADEK###ZnakiROzpoznawcze:###RodzajStatku:SZYBOWIEC###Data:01-06-2011###Miejsce:Szczecin Goleniów (EPSC)###Typ:SZD-30 Pirat ###
+Klasyfikacja:WYPADEK###RodzajStatku:SPADOCHRON###Id:2020/2871###Miejsce:EPGL###Data:01-11-2020###Typ:Voyager 260###
+Typ:Icarus VX 94###Klasyfikacja:WYPADEK###RodzajStatku:SPADOCHRON###Data:01-13-2020###Id:2020/2890###Miejsce:Piotrków Trybunalski (EPPT)###
+ZnakiROzpoznawcze:###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2012-0462/###Typ:SZD-30 Pirat ###Klasyfikacja:WYPADEK###RodzajStatku:SZYBOWIEC###Data:01-19-2012###Miejsce:Piotrków Trybunalski (EPPT)###Id:2012/0462###
+Data:01-30-2012###LosowyCzynnik:0.7###Miejsce:Błotnica###Klasyfikacja:WYPADEK###Id:2012/0700###RodzajStatku:MOTOPARALOTNIA###Typ:Synthesis Cabrio 42###
+Miejsce:Zamość-Mokre (EPZA)###Id:2012/0920###Typ:SZD-30 Pirat###ZnakiROzpoznawcze:###Klasyfikacja:WYPADEK###RodzajStatku:SZYBOWIEC###Data:01-03-2012###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2012-0920/###
+Data:01-22-2018###Id:2018/2228###Typ:PD SIlhouette 260###RodzajStatku:SPADOCHRON###Miejsce:Lotnisko Zamość (EPZA) ###Klasyfikacja:WYPADEK###
+Miejsce:Lotnisko Lubin (EPLU)###Id:2018/2243###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-2243/###Data:01-22-2018###Typ:SZD-22C Mucha Std###Klasyfikacja:INCYDENT###ZnakiROzpoznawcze:SP-2301###RodzajStatku:SZYBOWIEC###
+Miejsce:LOKW/WOLFSBERG###Data:01-01-2019###RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:D-4560###Id:2019/3938###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-3938/###Typ:Zakłady Lotnicze Margański MDM-1 "Fox"###Klasyfikacja:WYPADEK###
+Data:01-27-2018###Typ:Pilot 168###Miejsce:Chrcynno (EPNC)###Id:2018/2287###Klasyfikacja:INCYDENT###RodzajStatku:SPADOCHRON###
+Klasyfikacja:WYPADEK###Id:2020/3023###Miejsce:Chrcynno (EPNC)###Data:01-20-2020###Typ:Navigator260###RodzajStatku:SPADOCHRON###
+Miejsce:Warszawa Babice (EPBC)###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-2288/###RodzajStatku:SZYBOWIEC###Id:2018/2288###Klasyfikacja:INCYDENT###Data:01-26-2018###Typ:SZD-50-3 Puchacz###ZnakiROzpoznawcze:SP-3204###
+Data:01-12-2019###LosowyCzynnik:77.19###Klasyfikacja:WYPADEK###RodzajStatku:MOTOPARALOTNIA###Typ:b.d. (ND)###Id:2019/4109###Miejsce:Mikołów###
+Klasyfikacja:INCYDENT###Typ:PRIME 260###RodzajStatku:SPADOCHRON###Id:2018/2290###Miejsce:Kazimierz Biskupi (EPKB)###Data:01-28-2018###
+Klasyfikacja:WYPADEK###RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:SP-3367###Data:01-15-2019###Id:2019/4164###Miejsce:Warszawa Babice (EPBC)###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-4164/###Typ:SZD-50-3 Puchacz###
+Klasyfikacja:WYPADEK###Data:01-21-2020###LosowyCzynnik:82.12###Typ:skrzydło Air-Sport Shaft 26 (wing)###Miejsce:Radomin###Id:2020/3035###RodzajStatku:MOTOPARALOTNIA###
+Data:01-30-2018###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-2329/###ZnakiROzpoznawcze:SP-3879###RodzajStatku:SZYBOWIEC###Miejsce:Warszawa Babice (EPBC)###Typ:SZD 9 bis Bocian 1E###Id:2018/2329###Klasyfikacja:INCYDENT###
+Miejsce:Zielona Góra Przylep (EPZP)###Klasyfikacja:INCYDENT###Data:01-22-2018###Id:2018/2332###RodzajStatku:SPADOCHRON###Typ:Sigma 370###
+Id:2018/2351###Typ:SZD-54-2 Perkoz###Data:01-01-2018###ZnakiROzpoznawcze:SP-3796###RodzajStatku:SZYBOWIEC###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-2351/###Miejsce:Lądowisko Biała Podlaska (EPBP)###Klasyfikacja:INCYDENT###
+Miejsce:Kuchary / Częstochowa###Data:01-04-2018###RodzajStatku:SZYBOWIEC###Klasyfikacja:WYPADEK###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-2373/###ZnakiROzpoznawcze:SP-3713###Typ:DG-600 18m###Id:2018/2373###
+Klasyfikacja:INCYDENT###Miejsce:Kraków Pobiednik (EPKP)###ZnakiROzpoznawcze:SP-2588###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-3094/###RodzajStatku:SZYBOWIEC###Typ:SZD-9 bis 1E ###Data:01-25-2020###Id:2020/3094###
+RodzajStatku:SZYBOWIEC###Id:2015/1680###Data:01-11-2015###Typ:Puchacz SZD-50-3###Klasyfikacja:WYPADEK###ZnakiROzpoznawcze:###Miejsce:Lotnisko Płock (EPPL)###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2015-1680/###
+Klasyfikacja:WYPADEK###ZnakiROzpoznawcze:SP-3231###Data:01-01-2018###RodzajStatku:SZYBOWIEC###Miejsce:Wieś Czarne / gmina Kaliska###Id:2018/2386###Typ:SZD-48-3 Jantar Std 3###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-2386/###
+Id:2018/2387###RodzajStatku:SPADOCHRON###Miejsce:Białystok (EPBK) ###Data:01-01-2018###Typ:SOLO 250###Klasyfikacja:INCYDENT###
+Id:2019/4310###Klasyfikacja:WYPADEK###RodzajStatku:SPADOCHRON###Typ:PD, Navigator 240###Data:01-22-2019###Miejsce:Pruszcz Gdański (EPPR)###
+RodzajStatku:SPADOCHRON###Klasyfikacja:WYPADEK###Data:01-05-2020###Id:2020/3109###Typ:b.d. (ND)###Miejsce:EPLR###
+LosowyCzynnik:30.71###RodzajStatku:MOTOPARALOTNIA###Data:01-03-2018###Id:2018/2388###Klasyfikacja:WYPADEK###Typ:Jazz 2000###Miejsce:Bartoszyce###
+RodzajStatku:SPADOCHRON###Typ:PD Navigator 220###Data:01-04-2018###Klasyfikacja:INCYDENT###Miejsce:Piotrków Trybunalski (EPPT)###Id:2018/2394###
+Data:01-03-2018###Miejsce:Zamość (EPZA) ###Id:2018/2400###RodzajStatku:SPADOCHRON###Klasyfikacja:INCYDENT###Typ:Sigma 370###
+LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-2416/###Miejsce:Bielsko-Biała Aleksandrowice (EPBA)###Typ:SZD 9 bis Bocian 1E###ZnakiROzpoznawcze:SP-3102###RodzajStatku:SZYBOWIEC###Data:01-05-2018###Klasyfikacja:WYPADEK###Id:2018/2416###
+RodzajStatku:SZYBOWIEC###Data:01-06-2018###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-2434/###Id:2018/2434###ZnakiROzpoznawcze:D-KSOE###Klasyfikacja:WYPADEK###Typ:DG FLUGZEUGBAU, DG-1000T###Miejsce:Zielona Góra Przylep (EPZP)###
+Klasyfikacja:WYPADEK###LosowyCzynnik:71.67###Miejsce:Gorzyce###RodzajStatku:MOTOPARALOTNIA###Data:01-07-2020###Id:2020/3533###Typ:skrzydło Nucleon WRC 34 (wing)###
+RodzajStatku:SPADOCHRON###Data:01-10-2018###Miejsce:Jastarnia (EPJA) ###Klasyfikacja:WYPADEK###Typ:New Zeland Sport, JPX LEIA 88###Id:2018/2445###
+Klasyfikacja:INCYDENT###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-4486/###RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:SP-3332###Data:01-01-2019###Miejsce:Małomice / Lubin###Typ:SZD-48-3 Jantar Std 3###Id:2019/4486###
+Id:2018/2446###RodzajStatku:SPADOCHRON###Data:01-26-2018###Klasyfikacja:WYPADEK###Miejsce:Jastarnia (EPJA) ###Typ:Pilot 168###
+Id:2019/4556###Klasyfikacja:INCYDENT###RodzajStatku:SZYBOWIEC###Data:01-01-2019###Miejsce:Roczyny / góra Żar###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-4556/###ZnakiROzpoznawcze:SP-3826###Typ:LS-1###
+Miejsce:Chrcynno (EPNC)###Klasyfikacja:INCYDENT###Typ:PD Navigator 240###RodzajStatku:SPADOCHRON###Id:2018/2518###Data:01-12-2018###
+Miejsce:Chrcynno (EPNC)###Typ:PD, Navigator 240###Klasyfikacja:WYPADEK###Data:01-04-2019###Id:2019/4569###RodzajStatku:SPADOCHRON###
+Id:2018/2529###Miejsce:Kraków Pobiednik (EPKP)###Data:01-18-2018###Klasyfikacja:WYPADEK###RodzajStatku:SPADOCHRON###Typ:FALCON 300###
+Miejsce:Charłupia Wielka/Błaszki###Typ:Funny Star###Id:2019/4587###RodzajStatku:MOTOPARALOTNIA###LosowyCzynnik:76.92###Klasyfikacja:WYPADEK###Data:01-06-2019###
+ZnakiROzpoznawcze:SP-3448###Miejsce:EPGI/Lisie Kąty###Klasyfikacja:INCYDENT###Data:01-13-2018###Id:2018/2550###Typ:SZD-48-3 Jantar Std 3###RodzajStatku:SZYBOWIEC###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-2550/###
+Miejsce:Lisie Kąty (EPGI)###Klasyfikacja:WYPADEK###Data:01-13-2018###Typ:SZD-50-3A Puchacz###Id:2018/2567###ZnakiROzpoznawcze:SP-3154###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-2567/###RodzajStatku:SZYBOWIEC###
+Id:2019/4607###Klasyfikacja:WYPADEK###Data:01-06-2019###Typ:Sigma 370###RodzajStatku:SPADOCHRON###Miejsce:Piotrków Trybunalski (EPPT)###
+Typ:SZD-51-1 Junior###ZnakiROzpoznawcze:PH-980###Id:2020/3946###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-3946/###Klasyfikacja:POWAŻNY_INCYDENT###Data:01-22-2020###Miejsce:VENLO glider airfield###RodzajStatku:SZYBOWIEC###
+Klasyfikacja:WYPADEK###Miejsce:Szrapki / gmina Dominowo###LosowyCzynnik:1.07###Data:01-13-2019###Id:2019/4698###RodzajStatku:MOTOPARALOTNIA###Typ:Cumulus JR###
+ZnakiROzpoznawcze:SP-1492###RodzajStatku:SZYBOWIEC###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-4719/###Klasyfikacja:WYPADEK###Data:01-12-2019###Miejsce:Mnichov/Republika Czeska###Typ:SZD-42-2 Jantar 2B###Id:2019/4719###
+Id:2018/2735###Klasyfikacja:WYPADEK###RodzajStatku:SPADOCHRON###Typ:Skipper 190###Data:01-24-2018###Miejsce:Gliwice (EPGL)###
+RodzajStatku:SZYBOWIEC###Miejsce:Warszawa Babice (EPBC)###Id:2018/2740###Data:01-22-2018###Typ:SZD-30 Pirat###ZnakiROzpoznawcze:SP-2565###Klasyfikacja:INCYDENT###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-2740/###
+Data:01-19-2019###Id:2019/4784###Klasyfikacja:WYPADEK###Typ:Sigma II 370 Tandem###Miejsce:Chrcynno (EPNC)###RodzajStatku:SPADOCHRON###
+RodzajStatku:SZYBOWIEC###Data:01-19-2019###Klasyfikacja:WYPADEK###Miejsce:Bezmiechowa / Lesko###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-4791/###ZnakiROzpoznawcze:SP-3711###Typ:SZD-9 Bocian###Id:2019/4791###
+Typ:SZD-30 Pirat###RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:D-1964###Id:2017/0766###Klasyfikacja:WYPADEK###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2017-0766/###Miejsce:EPJL###Data:01-03-2017###
+RodzajStatku:SZYBOWIEC###Klasyfikacja:INCYDENT###Id:2021/0992###Miejsce:EPPI###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2021-0992/###Typ:Puchatek KR 03A###Data:01-09-2021###ZnakiROzpoznawcze:SP-3555###
+Typ:Pilot 188###Data:01-01-2018###Miejsce:Piotrków Trybunalski (EPPT)###Id:2018/2863###Klasyfikacja:INCYDENT###RodzajStatku:SPADOCHRON###
+Typ:Icarus Crossfire 2-99###RodzajStatku:SPADOCHRON###Data:01-31-2018###Id:2018/2868###Miejsce:Chrcynno (EPNC)###Klasyfikacja:INCYDENT###
+Typ:Icarus Crossfire 2-99###RodzajStatku:SPADOCHRON###Miejsce:Chrcynno (EPNC)###Data:01-02-2018###Id:2018/2869###Klasyfikacja:INCYDENT###
+Miejsce:Chrcynno (EPNC)###Id:2021/1133###Data:01-16-2021###Klasyfikacja:POWAŻNY_INCYDENT###Typ:PD, Storm 170###RodzajStatku:SPADOCHRON###
+Klasyfikacja:WYPADEK###Id:2017/0982###Miejsce:Przasnysz###Typ:b.d. (ND)###RodzajStatku:SPADOCHRON###Data:01-26-2017###
+Typ:Voyager 260###RodzajStatku:SPADOCHRON###Id:2017/1122###Miejsce:EPLR###Data:01-03-2017###Klasyfikacja:INCYDENT###
+Typ:Pilot 188###Data:01-01-2018###Miejsce:Piotrków Trybunalski (EPPT)###Id:2018/2863###Klasyfikacja:INCYDENT###RodzajStatku:SPADOCHRON###
+Typ:Icarus Crossfire 2-99###RodzajStatku:SPADOCHRON###Data:01-31-2018###Id:2018/2868###Miejsce:Chrcynno (EPNC)###Klasyfikacja:INCYDENT###
+Typ:Icarus Crossfire 2-99###RodzajStatku:SPADOCHRON###Miejsce:Chrcynno (EPNC)###Data:01-02-2018###Id:2018/2869###Klasyfikacja:INCYDENT###
+Miejsce:Chrcynno (EPNC)###Id:2021/1133###Data:01-16-2021###Klasyfikacja:POWAŻNY_INCYDENT###Typ:PD, Storm 170###RodzajStatku:SPADOCHRON###
+Klasyfikacja:WYPADEK###Id:2017/0982###Miejsce:Przasnysz###Typ:b.d. (ND)###RodzajStatku:SPADOCHRON###Data:01-26-2017###
+Typ:Voyager 260###RodzajStatku:SPADOCHRON###Id:2017/1122###Miejsce:EPLR###Data:01-03-2017###Klasyfikacja:INCYDENT###
+Typ:Pilot 188###Data:01-01-2018###Miejsce:Piotrków Trybunalski (EPPT)###Id:2018/2863###Klasyfikacja:INCYDENT###RodzajStatku:SPADOCHRON###
+Typ:Icarus Crossfire 2-99###RodzajStatku:SPADOCHRON###Data:01-31-2018###Id:2018/2868###Miejsce:Chrcynno (EPNC)###Klasyfikacja:INCYDENT###
+Typ:Icarus Crossfire 2-99###RodzajStatku:SPADOCHRON###Miejsce:Chrcynno (EPNC)###Data:01-02-2018###Id:2018/2869###Klasyfikacja:INCYDENT###
+Miejsce:Chrcynno (EPNC)###Id:2021/1133###Data:01-16-2021###Klasyfikacja:POWAŻNY_INCYDENT###Typ:PD, Storm 170###RodzajStatku:SPADOCHRON###
+Klasyfikacja:WYPADEK###Id:2017/0982###Miejsce:Przasnysz###Typ:b.d. (ND)###RodzajStatku:SPADOCHRON###Data:01-26-2017###
+Typ:Voyager 260###RodzajStatku:SPADOCHRON###Id:2017/1122###Miejsce:EPLR###Data:01-03-2017###Klasyfikacja:INCYDENT###
+Data:01-21-2021###ZnakiROzpoznawcze:SP-3307###Id:2021/1211###RodzajStatku:SZYBOWIEC###Miejsce:Rudniki (EPRU)###Klasyfikacja:WYPADEK###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2021-1211/###Typ:SZD-51-1 Junior###
+RodzajStatku:SPADOCHRON###Typ:Lighting 143###Miejsce:EPKB###Klasyfikacja:INCYDENT###Id:2017/1147###Data:01-09-2017###
+Klasyfikacja:WYPADEK###Miejsce:Bydgoszcz Szwederowo (EPBY) ###Typ:Mars HOP 260###Data:01-01-2018###RodzajStatku:SPADOCHRON###Id:2018/2903###
+Id:2021/1245###RodzajStatku:SZYBOWIEC###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2021-1245/###ZnakiROzpoznawcze:SP-3774###Data:01-22-2021###Typ:SZD-9 Bocian###Miejsce:EPLR###Klasyfikacja:POWAŻNY_INCYDENT###
+Typ:Sigma II 370 Tandem###Miejsce:EPOM###Id:2017/1160###RodzajStatku:SPADOCHRON###Klasyfikacja:INCYDENT###Data:01-11-2017###
+RodzajStatku:SPADOCHRON###Miejsce:Chrcynno (EPNC)###Typ:UPT Sigma II 370###Klasyfikacja:WYPADEK###Id:2018/2911###Data:01-03-2018###
+Id:2021/1315###Typ:JPX Leia 79###Klasyfikacja:WYPADEK###Miejsce:Piotrków Trybunalski (EPPT)###Data:01-29-2021###RodzajStatku:SPADOCHRON###
+Typ:MAC PARA, Charger 34###Id:2021/1372###Klasyfikacja:WYPADEK###Data:01-01-2021###RodzajStatku:MOTOPARALOTNIA###LosowyCzynnik:9.54###Miejsce:Łąka / Pszczyna###
+Typ:Pilot 168###RodzajStatku:SPADOCHRON###Miejsce:EPNC###Klasyfikacja:INCYDENT###Data:01-10-2017###Id:2017/1176###
+Klasyfikacja:INCYDENT###Miejsce:Rudniki (EPRU)###Id:2017/1177###Typ:Mars 330 ###Data:01-11-2017###RodzajStatku:SPADOCHRON###
+Klasyfikacja:INCYDENT###RodzajStatku:SPADOCHRON###Id:2018/3002###Typ:PD Student 260###Data:01-09-2018###Miejsce:Radawiec (EPLR)###
+Id:2021/1404###Klasyfikacja:WYPADEK###Miejsce:Zielona Góra Przylep (EPZP)###RodzajStatku:SPADOCHRON###Data:01-04-2021###Typ:UPT, Sigma 370###
+Klasyfikacja:INCYDENT###Miejsce:Pruszcz Gdański (EPPR)###RodzajStatku:SPADOCHRON###Typ:JoJo wings Hop 330###Id:2017/1247###Data:01-18-2017###
+Data:01-08-2018###Klasyfikacja:WYPADEK###RodzajStatku:SPADOCHRON###Miejsce:Krosno (EPKR)###Typ:ARROW 195ft###Id:2018/3079###
+ZnakiROzpoznawcze:SP-8000###Miejsce:Kraków Czyżyny (EPKC)###Typ:SoloFox###Data:01-25-2017###RodzajStatku:SZYBOWIEC###Klasyfikacja:WYPADEK###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2017-1302/###Id:2017/1302###
+Typ:PD Navigator 260###Data:01-13-2018###Miejsce:Rybnik (EPRG)###RodzajStatku:SPADOCHRON###Klasyfikacja:WYPADEK###Id:2018/3127###
+Klasyfikacja:WYPADEK###Miejsce:Toruń (EPTO)###ZnakiROzpoznawcze:SP-3420###Data:01-19-2018###Id:2018/3131###RodzajStatku:SZYBOWIEC###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-3131/###Typ:b.d. (ND)###
+Data:01-13-2018###Klasyfikacja:INCYDENT###Id:2018/3142###ZnakiROzpoznawcze:SP-3440###Miejsce:Olsztyn Dajtki (EPOD)###Typ:SZD 51-1 Junior###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-3142/###RodzajStatku:SZYBOWIEC###
+Miejsce:Krosno (EPKR)###Typ:Voyager 260###Klasyfikacja:WYPADEK###Id:2017/1446###Data:01-02-2017###RodzajStatku:SPADOCHRON###
+Typ:Orca XX Cabrio###Id:2018/3143###Klasyfikacja:WYPADEK###LosowyCzynnik:24.6###RodzajStatku:MOTOPARALOTNIA###Miejsce:Owczary / Kraków###Data:01-16-2018###
+Typ:Falcon 300###Data:01-17-2018###Klasyfikacja:WYPADEK###RodzajStatku:SPADOCHRON###Miejsce:Wrocław (EPWS)###Id:2018/3197###
+Data:01-21-2018###Miejsce:Chrcynno (EPNC)###Typ:Safire 149###RodzajStatku:SPADOCHRON###Klasyfikacja:WYPADEK###Id:2018/3201###
+RodzajStatku:MOTOPARALOTNIA###Id:2017/1545###Typ:b.d. (ND)###Miejsce:Ostrów Wielkopolski-Michałków (EPOM)###Data:01-09-2017###LosowyCzynnik:53.55###Klasyfikacja:INCYDENT###
+Klasyfikacja:WYPADEK###Id:2021/2955###Typ:SKYLARK, Commodore 250###RodzajStatku:SPADOCHRON###Data:01-14-2021###Miejsce:EPGL###
+Typ:SZD-30 Pirat###Data:01-18-2017###Klasyfikacja:INCYDENT###Id:2017/1668###RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:SP-3149###Miejsce:Piła (EPPI)###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2017-1668/###
+Typ:PD Student 300###Miejsce:EPLR###RodzajStatku:SPADOCHRON###Klasyfikacja:WYPADEK###Id:2018/3333###Data:01-29-2018###
+ZnakiROzpoznawcze:SP-3648###Klasyfikacja:POWAŻNY_INCYDENT###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2021-3116/###Id:2021/3116###Data:01-21-2021###Typ:SZD-48-3 Jantar Std. 3###RodzajStatku:SZYBOWIEC###Miejsce:Strzyżowice / Leszno (EPLS)###
+Miejsce:Kraków Pobiednik (EPKP)###Typ:Falcon 300###Klasyfikacja:WYPADEK###Data:01-28-2018###Id:2018/3341###RodzajStatku:SPADOCHRON###
+Miejsce:Wrocław Szymanów (EPWS)###RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:SP-3305###Data:01-29-2018###Klasyfikacja:INCYDENT###Id:2018/3361###Typ:SZD-51-1 Junior###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-3361/###
+RodzajStatku:SZYBOWIEC###Klasyfikacja:WYPADEK###ZnakiROzpoznawcze:SP-3765###Miejsce:EPTO###Id:2017/1833###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2017-1833/###Data:01-29-2017###Typ:SZD-59 Acro###
+Miejsce:Warszawa Babice (EPBC)###Typ:SZD-9bis Bocian ###Id:2017/1922###Data:01-31-2017###ZnakiROzpoznawcze:SP-2781###Klasyfikacja:INCYDENT###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2017-1922/###RodzajStatku:SZYBOWIEC###
+RodzajStatku:SZYBOWIEC###Data:01-30-2017###Id:2017/1944###Typ:SZD 51-1 Junior###ZnakiROzpoznawcze:SP-3426###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2017-1944/###Klasyfikacja:INCYDENT###Miejsce:Łódź Lublinek (EPLL)###
+Klasyfikacja:WYPADEK###Id:2018/3393###Typ:Paraavis Stealth 400###Data:01-30-2018###RodzajStatku:SPADOCHRON###Miejsce:EPIN###
+Id:2021/4040###ZnakiROzpoznawcze:SP-2709###RodzajStatku:SZYBOWIEC###Typ:SZD-30 Pirat###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2021-4040/###Data:01-10-2021###Klasyfikacja:WYPADEK###Miejsce:EPWK###
+Data:01-05-2017###Id:2017/1971###RodzajStatku:SZYBOWIEC###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2017-1971/###Klasyfikacja:WYPADEK###Miejsce:EPML###ZnakiROzpoznawcze:SP-2245###Typ:SZD-22 C Mucha Standard###
+Miejsce:EPZR###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2021-4302/###Data:01-25-2021###Id:2021/4302###ZnakiROzpoznawcze:SP-3424###Klasyfikacja:WYPADEK###RodzajStatku:SZYBOWIEC###Typ:SZD-51-1 Junior###
+RodzajStatku:SPADOCHRON###Id:2018/3419###Klasyfikacja:WYPADEK###Miejsce:Kazimierz Biskupi EPKB###Typ:Sigma 340###Data:01-21-2018###
+Typ:PD Stilletto 135###RodzajStatku:SPADOCHRON###Id:2018/3424###Miejsce:EPNC###Klasyfikacja:WYPADEK###Data:01-06-2018###
+Typ:skrzydło Nucleon Cabrio 42 (wing)###Id:2021/5115###LosowyCzynnik:99.64###RodzajStatku:MOTOPARALOTNIA###Data:01-21-2021###Klasyfikacja:WYPADEK###Miejsce:Łęg Tarnowski###
+Data:01-13-2018###Id:2018/3564###RodzajStatku:SPADOCHRON###Klasyfikacja:WYPADEK###Miejsce:Kazimierz Biskupi(EPKB)###Typ:PD Navigator 260###
+RodzajStatku:SPADOCHRON###Data:01-20-2017###Klasyfikacja:WYPADEK###Typ:Drakkar###Id:2017/2157###Miejsce:Piła (EPPI) ###
+RodzajStatku:SPADOCHRON###Miejsce:Bednary(EPPB)###Typ:HURRICANE 150###Data:01-14-2018###Id:2018/3585###Klasyfikacja:WYPADEK###
+Klasyfikacja:WYPADEK###Typ:SZD-9bis 1E Bocian###Data:01-17-2017###ZnakiROzpoznawcze:SP-2662###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2017-2197/###Miejsce:EPKA###Id:2017/2197###RodzajStatku:SZYBOWIEC###
+RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:SP-3031###Data:01-26-2017###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2017-2278/###Typ:SZD-9bis 1E Bocian###Miejsce:AD EPLL###Id:2017/2278###Klasyfikacja:WYPADEK###
+Data:01-26-2017###Typ:GROB, G-103C Twin 3SL###Miejsce:Warszawa Babice (EPBC)###Klasyfikacja:INCYDENT###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2017-2292/###ZnakiROzpoznawcze:D-5579###RodzajStatku:SZYBOWIEC###Id:2017/2292###
+Typ:SZD-50-3 Puchacz###RodzajStatku:SZYBOWIEC###Id:2017/2310###ZnakiROzpoznawcze:SP-3782###Klasyfikacja:WYPADEK###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2017-2310/###Data:01-30-2017###Miejsce:Warszawa Babice (EPBC)###
+LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2018-4454/###ZnakiROzpoznawcze:HA-4070###Typ:PW-5 ###Klasyfikacja:WYPADEK###Data:01-08-2018###Miejsce:Farkashegy / Węgry###RodzajStatku:SZYBOWIEC###Id:2018/4454###
+Typ:GROB G103 Twin Astir Twin II###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-1162/###RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:SP-3934###Data:01-03-2020###Id:2020/1162###Miejsce:EPJL###Klasyfikacja:WYPADEK###
+Typ:Sabre 135###Klasyfikacja:WYPADEK###Miejsce:EPZP###Id:2017/2804###RodzajStatku:SPADOCHRON###Data:01-14-2017###
+ZnakiROzpoznawcze:SP-3743###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-1198/###Miejsce:Bełchatów-Kołduny###RodzajStatku:SZYBOWIEC###Id:2020/1198###Typ:SZD-48-3 Jantar Std 3###Data:01-12-2020###Klasyfikacja:INCYDENT###
+ZnakiROzpoznawcze:SP-3701###Miejsce:Las Michałków###Klasyfikacja:WYPADEK###Typ:SZD-48-1 Jantar Standard 2###Data:01-17-2020###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-1213/###RodzajStatku:SZYBOWIEC###Id:2020/1213###
+Klasyfikacja:WYPADEK###Data:01-16-2020###Id:2020/1220###Typ:Safire-2###RodzajStatku:SPADOCHRON###Miejsce:Grodziec / Bielsko-Biała###
+LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-1262/###RodzajStatku:SZYBOWIEC###Typ:SZD 50-3 "Puchacz"###Id:2020/1262###Miejsce:Lotnisko, Toruń (EPTO)###Data:01-22-2020###Klasyfikacja:WYPADEK###ZnakiROzpoznawcze:SP-3206###
+Data:01-23-2019###Id:2019/0859###RodzajStatku:SPADOCHRON###Klasyfikacja:INCYDENT###Miejsce:Jelenia Góra EPJG###Typ:Aerodyne Research, Pilot 150###
+Id:2020/1263###Klasyfikacja:INCYDENT###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-1263/###Typ:Twin Astir Trainer###RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:SP-4070###Data:01-22-2020###Miejsce:Lądowisko Piła (EPPI)###
+ZnakiROzpoznawcze:SP-2754###RodzajStatku:SZYBOWIEC###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2022-3033/###Data:01-16-2022###Typ:SZD-9 bis 1E ###Miejsce:Bydgoszcz-Szwederowo (EPBY)###Klasyfikacja:POWAŻNY_INCYDENT###Id:2022/3033###
+ZnakiROzpoznawcze:SP-4082###Typ:SZD-9 Bocian###Data:01-03-2022###Miejsce:EPRG###Klasyfikacja:POWAŻNY_INCYDENT###Id:2022/3518###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2022-3518/###RodzajStatku:SZYBOWIEC###
+Data:01-30-2020###Id:2020/1293###Klasyfikacja:WYPADEK###Miejsce:Piotrków Trybunalski (EPPT)###RodzajStatku:SPADOCHRON###Typ:Sigma 370###
+ZnakiROzpoznawcze:SP-3012###Klasyfikacja:POWAŻNY_INCYDENT###Miejsce:Rudniki (EPRU)###RodzajStatku:SZYBOWIEC###Typ:SZD-30 Pirat###Id:2022/3807###Data:01-13-2022###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2022-3807/###
+RodzajStatku:SZYBOWIEC###Klasyfikacja:WYPADEK###Typ:SZD-51-1 Junior###ZnakiROzpoznawcze:SP-3437###Data:01-15-2022###Id:2022/3820###Miejsce:Rapy Dylańskie / Biłgoraj###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2022-3820/###
+LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-1063/###Id:2019/1063###Typ:SZD-51-1 Junior###Data:01-07-2019###Klasyfikacja:INCYDENT###RodzajStatku:SZYBOWIEC###Miejsce:Warszawa Babice (EPBC)###ZnakiROzpoznawcze:SP-3303###
+Klasyfikacja:WYPADEK###ZnakiROzpoznawcze:SP-3111###Typ:SZD-41 Jantar Std.###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2022-3863/###Data:01-15-2022###Miejsce:Krosno (EPKR)###RodzajStatku:SZYBOWIEC###Id:2022/3863###
+RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:SP-3996###Miejsce:Gromada / Biłgoraj###Data:01-04-2020###Typ:SZD-30 Pirat###Klasyfikacja:WYPADEK###Id:2020/1336###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-1336/###
+Id:2020/1347###RodzajStatku:MOTOPARALOTNIA###Data:01-04-2020###Klasyfikacja:WYPADEK###Miejsce:Leśna Podlaska###Typ:skrzydło Nucleon WRC Cabrio (wing)###LosowyCzynnik:8.05###
+LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2022-4974/###Miejsce:Rudniki (EPRU)###Id:2022/4974###Klasyfikacja:POWAŻNY_INCYDENT###Data:01-27-2022###Typ:SZD-9 bis 1E ###ZnakiROzpoznawcze:SP-3110###RodzajStatku:SZYBOWIEC###
+Klasyfikacja:WYPADEK###Data:01-04-2020###Typ:Magellan 150###Id:2020/1350###Miejsce:Białystok (EPBK) ###RodzajStatku:SPADOCHRON###
+ZnakiROzpoznawcze:D-6618###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-1306/###Id:2019/1306###Miejsce:Schwarzheide-Schipkau (EDBZ) / Niemcy###RodzajStatku:SZYBOWIEC###Data:01-22-2019###Klasyfikacja:WYPADEK###Typ:SZD-50-3A Puchacz###
+Data:01-30-2020###Id:2020/1293###Klasyfikacja:WYPADEK###Miejsce:Piotrków Trybunalski (EPPT)###RodzajStatku:SPADOCHRON###Typ:Sigma 370###
+ZnakiROzpoznawcze:SP-3012###Klasyfikacja:POWAŻNY_INCYDENT###Miejsce:Rudniki (EPRU)###RodzajStatku:SZYBOWIEC###Typ:SZD-30 Pirat###Id:2022/3807###Data:01-13-2022###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2022-3807/###
+RodzajStatku:SZYBOWIEC###Klasyfikacja:WYPADEK###Typ:SZD-51-1 Junior###ZnakiROzpoznawcze:SP-3437###Data:01-15-2022###Id:2022/3820###Miejsce:Rapy Dylańskie / Biłgoraj###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2022-3820/###
+LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-1063/###Id:2019/1063###Typ:SZD-51-1 Junior###Data:01-07-2019###Klasyfikacja:INCYDENT###RodzajStatku:SZYBOWIEC###Miejsce:Warszawa Babice (EPBC)###ZnakiROzpoznawcze:SP-3303###
+Klasyfikacja:WYPADEK###ZnakiROzpoznawcze:SP-3111###Typ:SZD-41 Jantar Std.###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2022-3863/###Data:01-15-2022###Miejsce:Krosno (EPKR)###RodzajStatku:SZYBOWIEC###Id:2022/3863###
+RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:SP-3996###Miejsce:Gromada / Biłgoraj###Data:01-04-2020###Typ:SZD-30 Pirat###Klasyfikacja:WYPADEK###Id:2020/1336###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-1336/###
+Id:2020/1347###RodzajStatku:MOTOPARALOTNIA###Data:01-04-2020###Klasyfikacja:WYPADEK###Miejsce:Leśna Podlaska###Typ:skrzydło Nucleon WRC Cabrio (wing)###LosowyCzynnik:8.05###
+LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2022-4974/###Miejsce:Rudniki (EPRU)###Id:2022/4974###Klasyfikacja:POWAŻNY_INCYDENT###Data:01-27-2022###Typ:SZD-9 bis 1E ###ZnakiROzpoznawcze:SP-3110###RodzajStatku:SZYBOWIEC###
+Klasyfikacja:WYPADEK###Data:01-04-2020###Typ:Magellan 150###Id:2020/1350###Miejsce:Białystok (EPBK) ###RodzajStatku:SPADOCHRON###
+Data:01-30-2020###Id:2020/1293###Klasyfikacja:WYPADEK###Miejsce:Piotrków Trybunalski (EPPT)###RodzajStatku:SPADOCHRON###Typ:Sigma 370###
+ZnakiROzpoznawcze:SP-3012###Klasyfikacja:POWAŻNY_INCYDENT###Miejsce:Rudniki (EPRU)###RodzajStatku:SZYBOWIEC###Typ:SZD-30 Pirat###Id:2022/3807###Data:01-13-2022###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2022-3807/###
+RodzajStatku:SZYBOWIEC###Klasyfikacja:WYPADEK###Typ:SZD-51-1 Junior###ZnakiROzpoznawcze:SP-3437###Data:01-15-2022###Id:2022/3820###Miejsce:Rapy Dylańskie / Biłgoraj###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2022-3820/###
+LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2019-1063/###Id:2019/1063###Typ:SZD-51-1 Junior###Data:01-07-2019###Klasyfikacja:INCYDENT###RodzajStatku:SZYBOWIEC###Miejsce:Warszawa Babice (EPBC)###ZnakiROzpoznawcze:SP-3303###
+Klasyfikacja:WYPADEK###ZnakiROzpoznawcze:SP-3111###Typ:SZD-41 Jantar Std.###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2022-3863/###Data:01-15-2022###Miejsce:Krosno (EPKR)###RodzajStatku:SZYBOWIEC###Id:2022/3863###
+RodzajStatku:SZYBOWIEC###ZnakiROzpoznawcze:SP-3996###Miejsce:Gromada / Biłgoraj###Data:01-04-2020###Typ:SZD-30 Pirat###Klasyfikacja:WYPADEK###Id:2020/1336###LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2020-1336/###
+Id:2020/1347###RodzajStatku:MOTOPARALOTNIA###Data:01-04-2020###Klasyfikacja:WYPADEK###Miejsce:Leśna Podlaska###Typ:skrzydło Nucleon WRC Cabrio (wing)###LosowyCzynnik:8.05###
+LinkDoSPrawy:https://pkbwl.gov.pl/raporty/2022-4974/###Miejsce:Rudniki (EPRU)###Id:2022/4974###Klasyfikacja:POWAŻNY_INCYDENT###Data:01-27-2022###Typ:SZD-9 bis 1E ###ZnakiROzpoznawcze:SP-3110###RodzajStatku:SZYBOWIEC###
+Klasyfikacja:WYPADEK###Data:01-04-2020###Typ:Magellan 150###Id:2020/1350###Miejsce:Białystok (EPBK) ###RodzajStatku:SPADOCHRON###
